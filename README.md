@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/sanproweb/makefun-gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/sanproweb/makefun-gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 # GTA 6 is 400 GB — a make.fun meme for X
 
 An entry for make.fun's bounty "Post a GTA 6 meme on X"
